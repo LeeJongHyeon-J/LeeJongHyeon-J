@@ -33,8 +33,6 @@ Python과 데이터분석도 가능합니다.<br>
 <br/>
 
 ---
-
-<br></br>
 ✉️ Email: a7549985@naver.com
 </div></div>
 
