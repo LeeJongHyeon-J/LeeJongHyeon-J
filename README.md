@@ -26,7 +26,6 @@ Python과 데이터분석도 가능합니다.<br>
 <br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white"/>
-<br/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
 <br/>
 
