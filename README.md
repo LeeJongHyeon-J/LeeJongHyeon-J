@@ -35,13 +35,10 @@ Python과 데이터분석도 가능합니다.<br>
 ---
 
 <br></br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={boj아이디})](https://solved.ac/{개인 이메일}/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={깃허브 아이디})](https://github.com/anuraghazra/github-readme-stats)
-
-
+✉️ Email: a7549985@naver.com
 </div></div>
 
 - 🌱 학습 영진전문대학교 게임메타버스과 졸업예정
-- 👯 경력
 - 🌱 메타버스 아카데미 AI 과정(2025.03 ~ )
+- 👯 경력
+
