@@ -13,10 +13,8 @@ Python과 데이터분석도 가능합니다.<br>
 また、政府の教育機関でPythonとデータ分析の研修を受けました。
 </sub>
 
----
-
 ### 🛠 Tech Stack
-</br> </br>
+
 <div align=center> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
