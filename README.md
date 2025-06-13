@@ -1,10 +1,10 @@
 <div align="center">
 
-## 👋 Hi there! I'm USER
+## 👋 Hi there! I'm LEE JONGHYEON
 
 <p>한줄소개</p>
 <sub>
-안녕하세요? 저는 이종현입니다. <br>
+안녕하세요? 저는 <b>이종현</b>입니다. <br>
 게임 개발을 전공하였기 때문에 유니티를 다룰 수 있으며<br>
 Python과 데이터분석도 가능합니다.<br>
 <br>
